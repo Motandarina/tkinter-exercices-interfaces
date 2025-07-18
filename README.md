@@ -3,8 +3,8 @@
 ![Badge de Python](https://img.shields.io/badge/Python-3.x-blue)
 
 <div align="center">
-*Colección de ejercicios y aplicaciones desarrolladas con Tkinter*  
-**Asignatura: Desarrollo de Interfaces (DI) - DAM 2025**
+<i>Colección de ejercicios y aplicaciones desarrolladas con Tkinter</i><br>
+<b>Asignatura: Desarrollo de Interfaces (DI) - DAM 2024-2025 - Centro Afundación</b>  
 </div>
 
 ## 📁 Estructura del Proyecto
